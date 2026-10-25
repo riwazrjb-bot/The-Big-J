@@ -10,7 +10,7 @@ Job seekers often apply to many jobs through different websites, making it diffi
 
 The primary target users are college students, graduating students, recent graduates, and entry-level job seekers.
 
-### MVP Features
+### V1 Features
 
 - User authentication
 - Create, view, update, and delete job applications
